@@ -9,4 +9,4 @@ This website is all about "Silent Sanctuary," a 5-piece Filipino rock band that 
 ## Author
 
 Mark Lester Jabonete  
-[lesterjabonete23@gmail.com](https://twitter.com/dompizzie)
+[lesterjabonete23@gmail.com]
